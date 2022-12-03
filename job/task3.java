@@ -53,8 +53,5 @@ public class task3 {
         }
         int a = calc.pop();
         System.out.println(a);
-        
-
-        
      }     
 }
